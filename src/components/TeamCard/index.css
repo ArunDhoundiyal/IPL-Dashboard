@@ -1,0 +1,25 @@
+.team-card-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff33;
+  width: 350px;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px;
+  overflow: auto;
+}
+
+.team-logo {
+  height: 100px;
+  width: 100px;
+}
+.team-name-container {
+  text-align: center;
+  padding-left: 15px;
+}
+.team-name {
+  font-family: Bree Serif;
+  color: #ffffff;
+  font-weight: 10;
+  font-size: 25px;
+}
